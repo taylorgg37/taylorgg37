@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, Thanks for visiting my Github profile 👋
+
 
 <!--
 **taylorgg37/taylorgg37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Taylor Guillerm, a software engineer who has worked more than 10 years to build modern web and mobile platforms for growing industries and businesses.
+
+I am a proactive communicator, who has played a pivotal role in fostering effective communication with product team and scrum team to make successful deliverables
+Also, I am a problem solver, who can identify and analyze the business, technical problems autonomously with high standards in the field of user experience and performance of the platforms
+Finally, I worked as a team member, who help to cultivate a collaborative organized, productive environment in delivering exceptional products.
