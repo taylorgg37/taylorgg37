@@ -59,4 +59,5 @@ Finally, I worked as a team member, who help to cultivate a collaborative organi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" />
 </p>
 
-![Taylor Guillerm GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=taylorgg37&theme=dark&background=000000)](https://git.io/streak-stats)
+
