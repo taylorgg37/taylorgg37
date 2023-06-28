@@ -1,4 +1,4 @@
-### Hi, Thanks for visiting my Github profile 👋
+### Hi, Welcome to visit my profile 👋
 
 
 <!--
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   </a>
   </div>
 </div>
+
+### Overview
 
 My name is Taylor Guillerm, a software engineer who has worked more than 10 years to build modern web and mobile platforms for growing industries and businesses.
 
