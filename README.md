@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  ![image](https://github.com/taylorgg37/taylorgg37/assets/100331404/d0e679e3-644a-4398-8271-e871a98b312e)
+  [![image](https://github.com/taylorgg37/taylorgg37/assets/100331404/d0e679e3-644a-4398-8271-e871a98b312e)](https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif)
 </div>
 
 My name is Taylor Guillerm, a software engineer who has worked more than 10 years to build modern web and mobile platforms for growing industries and businesses.
