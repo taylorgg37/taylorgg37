@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 My name is Taylor Guillerm, a software engineer who has worked more than 10 years to build modern web and mobile platforms for growing industries and businesses.
 
 I am a proactive communicator, who has played a pivotal role in fostering effective communication with product team and scrum team to make successful deliverables
