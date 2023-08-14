@@ -27,11 +27,13 @@ Here are some ideas to get you started:
 
 ### Overview
 
-My name is Taylor Guillerm, a software engineer who has worked more than 10 years to build modern web and mobile platforms for growing industries and businesses.
+My name is Taylor Guillerm, a software engineer worked more than 10 years to build modern platforms.
 
-I am a proactive communicator, who has played a pivotal role in fostering effective communication with product team and scrum team to make successful deliverables
-Also, I am a problem solver, who can identify and analyze the business, technical problems autonomously with high standards in the field of user experience and performance of the platforms
-Finally, I worked as a team member, who help to cultivate a collaborative organized, productive environment in delivering exceptional products.
+I am 
+👨‍💻 a software engineer, enjoy taking the technical challenges 
+🔭 a proactive communicator, played a pivotal role in fostering effective communication
+🚀 a problem solver, identify and analyze the business, technical problems
+👨‍👦‍👦 a team member, help to cultivate a collaborative organized, productive environment
 
 ### Programming Languages and frameworks
 <p>
