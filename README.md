@@ -1,20 +1,4 @@
-### Hi, Welcome to visit my profile 👋
-
-
-<!--
-**taylorgg37/taylorgg37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, Welcome to visit my profile 👋e
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150" height="150" />
@@ -30,10 +14,10 @@ Here are some ideas to get you started:
 My name is Taylor Guillerm, a software engineer worked more than 10 years to build modern platforms.
 
 I am 
-👨‍💻 a software engineer, enjoy taking the technical challenges 
-🔭 a proactive communicator, played a pivotal role in fostering effective communication
-🚀 a problem solver, identify and analyze the business, technical problems
-👨‍👦‍👦 a team member, help to cultivate a collaborative organized, productive environment
+- 👨‍💻 a software engineer, enjoy taking the technical challenges 
+- 🔭 a proactive communicator, played a pivotal role in fostering effective communication
+- 🚀 a problem solver, identify and analyze the business, technical problems
+- 👨‍👦‍👦 a team member, help to cultivate a collaborative organized, productive environment
 
 ### Programming Languages and frameworks
 <p>
