@@ -19,6 +19,10 @@ I am
 - 🚀 a problem solver, identify and analyze the business, technical problems
 - 👨‍👦‍👦 a team member, help to cultivate a collaborative organized, productive environment
 
+I am also subscribted in the daily dev news so I can feed with the latest technologies.
+
+<a href="https://app.daily.dev/taylorguillermwpro"><img src="https://api.daily.dev/devcards/dc489e80c7a448319ec7c17571086ea5.png?r=ir4" width="400" alt="Taylor Guillerm's Dev Card"/></a>
+
 ### Technology
 #### Languages
 <p>
