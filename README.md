@@ -71,10 +71,9 @@ I am also subscribted in the daily dev news so I can feed with the latest techno
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" title="apache" **alt="apache" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="docker" **alt="docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="firebase" **alt="firebase" width="40" height="40"/>
-
-  
-
 </p>
+
+![](https://komarev.com/ghpvc/?username=taylorgg37)
 
 #### Statistics  
 </p>
