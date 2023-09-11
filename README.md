@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
   <a href="https://app.daily.dev/taylorguillermwpro"><img src="https://api.daily.dev/devcards/dc489e80c7a448319ec7c17571086ea5.png?r=ir4" width="200" alt="Taylor Guillerm's Dev Card"/></a>
+  <hr>
   <div id="badges">
   <a href="https://www.linkedin.com/in/taylor-g-stay-x-hf/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
