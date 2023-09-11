@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taylorgg37&label=Profile%20views&color=0e75b6&style=flat" alt="taylorgg37" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylorgg37" alt="taylorgg37" /></a> </p>
-
 - 🔭 My last project [was PET MD](www.petmd.com)
 
 - 🌱 I’m currently learning **React 18, NextJS 13, NestJS, Vue3, OpenAI etc**
