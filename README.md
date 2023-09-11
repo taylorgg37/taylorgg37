@@ -1,7 +1,7 @@
 ### Hi, Welcome to visit my profile 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150" height="150" />
+  <a href="https://app.daily.dev/taylorguillermwpro"><img src="https://api.daily.dev/devcards/dc489e80c7a448319ec7c17571086ea5.png?r=ir4" width="200" alt="Taylor Guillerm's Dev Card"/></a>
   <div id="badges">
   <a href="https://www.linkedin.com/in/taylor-g-stay-x-hf/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -80,4 +80,4 @@ I am
 
 I am also subscribted in the daily dev news so I can feed with the latest technologies.
 
-<a href="https://app.daily.dev/taylorguillermwpro"><img src="https://api.daily.dev/devcards/dc489e80c7a448319ec7c17571086ea5.png?r=ir4" width="200" alt="Taylor Guillerm's Dev Card"/></a>
+
