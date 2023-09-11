@@ -2,6 +2,7 @@
 <h3 align="center">Senior Software Engineer contributed to building modern SaaS platforms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taylorgg37&label=Profile%20views&color=0e75b6&style=flat" alt="taylorgg37" /> </p>
+<a href="https://app.daily.dev/taylorguillermwpro"><img src="https://api.daily.dev/devcards/dc489e80c7a448319ec7c17571086ea5.png?r=ir4" width="400" alt="Taylor Guillerm's Dev Card"/></a>
 
 - 🔭 My last project [was PET MD](www.petmd.com)
 
